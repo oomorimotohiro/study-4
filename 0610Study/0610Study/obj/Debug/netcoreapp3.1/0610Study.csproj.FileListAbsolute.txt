@@ -1,0 +1,11 @@
+C:\Users\k.yonaha\source\repos\0610Study\0610Study\bin\Debug\netcoreapp3.1\0610Study.exe
+C:\Users\k.yonaha\source\repos\0610Study\0610Study\bin\Debug\netcoreapp3.1\0610Study.deps.json
+C:\Users\k.yonaha\source\repos\0610Study\0610Study\bin\Debug\netcoreapp3.1\0610Study.runtimeconfig.json
+C:\Users\k.yonaha\source\repos\0610Study\0610Study\bin\Debug\netcoreapp3.1\0610Study.runtimeconfig.dev.json
+C:\Users\k.yonaha\source\repos\0610Study\0610Study\bin\Debug\netcoreapp3.1\0610Study.dll
+C:\Users\k.yonaha\source\repos\0610Study\0610Study\bin\Debug\netcoreapp3.1\0610Study.pdb
+C:\Users\k.yonaha\source\repos\0610Study\0610Study\obj\Debug\netcoreapp3.1\0610Study.csprojAssemblyReference.cache
+C:\Users\k.yonaha\source\repos\0610Study\0610Study\obj\Debug\netcoreapp3.1\0610Study.AssemblyInfoInputs.cache
+C:\Users\k.yonaha\source\repos\0610Study\0610Study\obj\Debug\netcoreapp3.1\0610Study.AssemblyInfo.cs
+C:\Users\k.yonaha\source\repos\0610Study\0610Study\obj\Debug\netcoreapp3.1\0610Study.dll
+C:\Users\k.yonaha\source\repos\0610Study\0610Study\obj\Debug\netcoreapp3.1\0610Study.pdb
